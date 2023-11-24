@@ -3,4 +3,4 @@ El objetivo de este proyecto es aplicar el modelo YOLO (You Only Look Once) a un
 # Grupo 2
 - Nikole García u20181b618
 - Andrea García u202014068
-- Alonso Ulloa
+- Alonso Ulloa u20161d217
